@@ -9,17 +9,6 @@ gtag_id = "G-33WB8LVHR6"
 base_url = "https://larseggimann.github.io/links"
 
 [[sections]]
-title = "My Projects"
-description = "Here are some of my private projects"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-title = "Power Fetcher"
-description = "A small NiceGUI application that crawls a power monitor on our network, logs and displays the data in a small web app"
-url = "https://github.com/LarsEggimann/power-fetcher"
-
-
-[[sections]]
 title = "Links"
 description = "Look for me on these websites"
 direction = "row"
@@ -33,3 +22,20 @@ url = "https://ieeexplore.ieee.org/author/783226350881842"
 [[sections.items]]
 title = "ORCID"
 url = "https://orcid.org/0009-0006-3460-2095"
+
+
+[[sections]]
+title = "My Projects"
+description = "Here are some of my private projects"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Power Fetcher"
+description = "A small NiceGUI application that crawls a power monitor on our network, logs and displays the data in a small web app"
+url = "https://github.com/LarsEggimann/power-fetcher"
+[[sections.items]]
+title = "My GitHub"
+description = "My GitHub profile with all my public projects"
+url = "https://github.com/LarsEggimann"
+
+
