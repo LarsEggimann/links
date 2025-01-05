@@ -1,7 +1,7 @@
 name = "Lars Eggimann"
 description = "Experimental Physicist, part time software developer, hobby game dev."
 keywords = "Lars Eggimann, physics, experimentalist, software developer"
-image = "me.jpg"
+image = "me.webp"
 theme = "dark"
 primary_color = "#216e26"
 text_align = "center"
