@@ -3,28 +3,21 @@ description = "Experimental Physicist, part time software developer, hobby game 
 keywords = "Lars Eggimann, physics, experimentalist, software developer"
 image = "me.jpg"
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "#2a8730"
 text_align = "center"
 gtag_id = "G-33WB8LVHR6"
 base_url = "https://larseggimann.github.io/links"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "My Projects"
+description = "Here are some of my private projects"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "Power Fetcher"
+description = "A small NiceGUI application that crawls a power monitor on our network, logs and displays the data in a small web app"
+url = "https://github.com/LarsEggimann/power-fetcher"
+
 
 [[sections]]
 title = "Links"
@@ -32,14 +25,11 @@ description = "Look for me on these websites"
 direction = "row"
 item_style = "filled"
 [[sections.items]]
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/lars-eggimann-989189218/"
 [[sections.items]]
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+title = "IEEE Xplore"
+url = "https://ieeexplore.ieee.org/author/783226350881842"
 [[sections.items]]
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+title = "ORCID"
+url = "https://orcid.org/0009-0006-3460-2095"
