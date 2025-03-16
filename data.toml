@@ -30,6 +30,10 @@ description = "Here are some of my private projects"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
+title = "ORBITOS"
+description = "ORBITOS is used to improve measurement control and reproducibility for radiobiology studies using the Bern Medical Cyclotron particle accelerator. Specifically, it is used for various cell irradiation studies at ultra-high dose rates, minibeam experiments and radiation hardness studies."
+url = "https://github.com/LarsEggimann/orbitos"
+[[sections.items]]
 title = "Power Fetcher"
 description = "A small NiceGUI application that crawls a power monitor on our network, logs and displays the data in a small web app"
 url = "https://github.com/LarsEggimann/power-fetcher"

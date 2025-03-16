@@ -1,20 +1,4 @@
-<h1 align="center">
-    <a href="https://github.com/thevahidal/jake">
-        <img src='docs/logo.jpeg' height='200px' style="">
-    </a>
-</h1>
-
-<div align="center">
-  Jake is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
-  <br />
-  <br />
-  <a href="https://thevahidal.github.io/jake">Demo</a>
-  <br />
-  <br />
-  <a href="https://thevahidal.github.io/jake">
-      <img src='docs/demo.gif' style="">
-  </a>
-</div>
+This is a fork of [jake](https://github.com/thevahidal/jake). Find my links website [here](https://larseggimann.github.io/links/).
 
 ## Usage
 
