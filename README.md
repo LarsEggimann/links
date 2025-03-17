@@ -3,7 +3,6 @@ This is a fork of [jake](https://github.com/thevahidal/jake). Find my links webs
 ## Usage
 
 ### 1. Create a Repository
-
 To get started, follow these steps to create a new repository using this template:
 
 1. Click [here](https://github.com/new?template_name=jake&template_owner=thevahidal) to create a new repository.
